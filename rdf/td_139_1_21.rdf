@@ -7,7 +7,7 @@ xmlns:dcterms="http://purl.org/dc/terms/"
 xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 xmlns:ore="http://www.openarchives.org/ore/terms/">
 
-<edm:ProvidedCHO rdf:about="td_139_1_21">
+<edm:ProvidedCHO rdf:about="http://folk.bulgariana.eu/td_139_1_21">
 <dc:identifier>td_139_1_21</dc:identifier>
 <dc:contributor xml:lang="bg">Здравка Димитрова Делчева (Попконстантинова), род. 1901 г. - изпълнител</dc:contributor>
 <dcterms:spatial xml:lang="bg">с. Любеново, общ. Хасково</dcterms:spatial>
@@ -56,8 +56,8 @@ xmlns:ore="http://www.openarchives.org/ore/terms/">
 </edm:WebResource>
 
 <ore:Aggregation rdf:about="http://folk.bulgariana.eu/aggregation/td_139_1_21">
-<edm:aggregatedCHO rdf:resource="td_139_1_21"/>
-<edm:object rdf:resource="http://folk.bulgariana.eu/gif/td_139_1_21.gif"/>
+<edm:aggregatedCHO rdf:resource="http://folk.bulgariana.eu/td_139_1_21"/>
+<edm:object rdf:resource="http://folk.bulgariana.eu/thumbnails/td_139_1_21.png"/>
 <edm:dataProvider xml:lang="bg">Магратеа Информационни Технологии</edm:dataProvider>
 <edm:provider xml:lang="en">Bulgariana</edm:provider>
 <edm:isShownAt rdf:resource="http://folk.bulgariana.eu/html/td_139_1_21"/>

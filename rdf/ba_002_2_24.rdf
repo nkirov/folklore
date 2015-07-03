@@ -7,7 +7,7 @@ xmlns:dcterms="http://purl.org/dc/terms/"
 xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 xmlns:ore="http://www.openarchives.org/ore/terms/">
 
-<edm:ProvidedCHO rdf:about="ba_002_2_24">
+<edm:ProvidedCHO rdf:about="http://folk.bulgariana.eu/ba_002_2_24">
 <dc:identifier>ba_002_2_24</dc:identifier>
 <dc:contributor xml:lang="bg">Стоян Иванов Вандов, род. 1908 г. - изпълнител</dc:contributor>
 <dcterms:spatial xml:lang="bg">с. Кортен, общ. Нова Загора</dcterms:spatial>
@@ -56,8 +56,8 @@ xmlns:ore="http://www.openarchives.org/ore/terms/">
 </edm:WebResource>
 
 <ore:Aggregation rdf:about="http://folk.bulgariana.eu/aggregation/ba_002_2_24">
-<edm:aggregatedCHO rdf:resource="ba_002_2_24"/>
-<edm:object rdf:resource="http://folk.bulgariana.eu/gif/ba_002_2_24.gif"/>
+<edm:aggregatedCHO rdf:resource="http://folk.bulgariana.eu/ba_002_2_24"/>
+<edm:object rdf:resource="http://folk.bulgariana.eu/thumbnails/ba_002_2_24.png"/>
 <edm:dataProvider xml:lang="bg">Магратеа Информационни Технологии</edm:dataProvider>
 <edm:provider xml:lang="en">Bulgariana</edm:provider>
 <edm:isShownAt rdf:resource="http://folk.bulgariana.eu/html/ba_002_2_24"/>
